@@ -1,0 +1,293 @@
+최초50위 날짜	곡 제목	아티스트
+1958-08-16	The Freeze	Tony And Joe
+1958-09-20	Blue Ribbon Baby	Tommy Sands And The Raiders
+1959-02-28	Nola	The Morgan Brothers
+1959-03-07	Telling Lies	Fats Domino
+1959-03-14	When The Saints Go Marching In	Fats Domino
+1959-05-09	Bonaparte's Retreat	Billy Grammer
+1959-07-25	Lonely Guitar	Annette
+1959-10-10	Ski King	E.C. Beatty
+1960-03-19	Anyway The Wind Blows	Doris Day
+1960-04-02	Teenage Sonata	Sam Cooke
+1960-04-30	Wake Me When It's Over	Andy Williams
+1960-06-18	Spring Rain	Pat Boone
+1960-08-06	My Tani	The Brothers Four
+1960-09-10	Big Boy Pete	The Olympics
+1961-01-28	What Am I Gonna Do	Jimmy Clanton
+1961-03-25	Blue Moon	Herb Lance & The Classics
+1961-04-01	The Second Time Around	Frank Sinatra
+1961-05-27	You'd Better Come Home	Russell Byrd
+1961-06-03	The Wayward Wind	Gogi Grant
+1961-07-01	Fool That I Am	Etta James
+1961-09-16	My Blue Heaven	Duane Eddy And The Rebels
+1961-11-18	The Bridge Of Love	Joe Dowell
+1961-12-16	It's All Because	Linda Scott
+1962-04-28	Tra La La La La	Ike & Tina Turner
+1962-05-05	Moments	Jennell Hawkins
+1962-09-01	A Taste Of Honey	Martin Denny and His Orchestra
+1963-03-02	All About My Girl	Jimmy McGriff
+1963-05-18	Two Kind Of Teardrops	Del Shannon
+1963-06-01	Sting Ray	The Routers
+1963-10-12	Betty In Bermudas	The Dovells
+1963-11-16	Funny How Time Slips Away	Johnny Tillotson
+1964-02-01	Dumb Head	Ginny Arnell
+1964-08-22	A Tear Fell	Ray Charles
+1964-09-26	She Wants T' Swim	Chubby Checker
+1965-01-30	Come On Do The Jerk	The Miracles
+1965-02-06	Ode To The Little Brown Shack Out Back	Billy Edd Wheeler
+1965-03-20	Come Tomorrow	Manfred Mann
+1965-05-08	(The Bees Are For The Birds) The Birds Are For The Bees	The Newbeats
+1965-09-18	(My Girl) Sloopy	Little Caesar And The Consuls
+1965-10-09	There But For Fortune	Joan Baez
+1965-11-13	Take Me In Your Arms (Rock Me A Little While)	Kim Weston
+1966-02-05	Spread It On Thick	The Gentrys
+1966-02-12	Cleo's Mood	Jr. Walker & The All Stars
+1966-03-05	Love Is All We Need	Mel Carter
+1966-04-23	Young Love	Lesley Gore
+1966-05-07	Till The End Of The Day	The Kinks
+1966-06-11	There's No Living Without Your Loving	Peter And Gordon
+1966-09-03	Satisfied With You	The Dave Clark Five
+1966-11-12	Don't Be A Drop-Out	James Brown And The Famous Flames
+1966-12-03	Heaven Must Have Sent You	The Elgins
+1967-05-20	My Babe	Ronnie Dove
+1967-09-02	It's The Little Things	Sonny & Cher
+1967-09-16	Happy	The Sunshine Company
+1967-10-07	We Love You	The Rolling Stones
+1967-12-30	Dear Eloise	The Hollies
+1968-03-02	Jealous Love	Wilson Pickett
+1968-11-30	The Star-Spangled Banner	Jose Feliciano
+1969-04-19	Mini-Skirt Minnie	Wilson Pickett
+1969-06-14	I Could Never Lie To You	The New Colony Six
+1969-08-30	Simple Song Of Freedom	Tim Hardin
+1969-10-11	We Gotta All Get Together	Paul Revere & The Raiders Featuring Mark Lindsay
+1969-11-29	Tonight I'll Be Staying Here With You	Bob Dylan
+1969-12-06	Blistered/See Ruby Fall	Johnny Cash
+1970-02-14	The Touch Of You	Brenda & The Tabulations
+1970-03-28	Stir It Up And Serve It	Tommy Roe
+1970-04-11	To The Other Woman (I'm The Other Woman)	Doris Duke
+1970-05-02	You Make Me Real/Roadhouse Blues	The Doors
+1970-05-09	Chicken Strut	The Meters
+1970-05-23	The Onion Song/California Soul	Marvin Gaye & Tammi Terrell
+1970-08-01	Pearl	Tommy Roe
+1970-10-17	Mongoose	Elephant's Memory
+1970-11-07	Seems Like I Gotta Do Wrong	The Whispers
+1970-11-28	I Don't Wanna Cry	Ronnie Dyson
+1971-01-16	They Can't Take Away Our Music	Eric Burdon And War
+1971-01-30	Bridget The Midget (The Queen Of The Blues)	Ray Stevens
+1971-05-29	I Cried	James Brown
+1971-09-11	Take Me Girl, I'm Ready	Jr. Walker & The All Stars
+1972-01-15	Sour Suite	The Guess Who
+1972-02-05	The Harder I Try (The Bluer I Get)	Free Movement
+1972-05-06	Legend In Your Own Time	Carly Simon
+1972-06-03	You're The Man (Part 1)	Marvin Gaye
+1972-10-21	Slaughter	Billy Preston
+1972-12-30	Trouble In My Home/I Found My Dad	Joe Simon
+1973-01-06	You're A Lady	Peter Skellern
+1973-03-17	Keep On Singing	Austin Roberts
+1973-04-14	Down And Out In New York City	James Brown
+1973-06-02	With A Child's Heart	Michael Jackson
+1973-09-15	Evil	Earth, Wind & Fire
+1973-09-22	Sexy, Sexy, Sexy	James Brown
+1973-11-17	Sail Around The World	David Gates
+1973-12-08	Mammy Blue	Stories
+1974-02-16	You Sure Love To Ball	Marvin Gaye
+1974-05-11	Keep It In The Family	Leon Haywood
+1974-05-25	The Same Love That Made Me Laugh	Bill Withers
+1974-07-13	Room Full Of Roses	Mickey Gilley
+1974-10-05	Tell Her Love Has Felt The Need	Eddie Kendricks
+1974-11-02	I Can't Leave You Alone	George McCrae
+1974-12-21	She's Gone	Tavares
+1975-01-18	Baby, Hang Up The Phone	Carl Graves
+1975-02-15	Hot Dawgit	Ramsey Lewis And Earth, Wind & Fire
+1975-03-29	I Have A Dream	Donny Osmond
+1975-05-03	You Brought The Woman Out Of Me	Evie Sands
+1975-08-09	The Biggest Parakeets In Town	Jud Strunk
+1975-08-23	Get The Cream Off The Top	Eddie Kendricks
+1975-09-20	To Each His Own	Faith, Hope And Charity
+1975-10-04	I Love Makin' Love To You	Evie Sands
+1975-10-11	Money	Gladys Knight And The Pips
+1975-11-15	Keep On Tryin'	Poco
+1977-09-03	I'm Dreaming	Jennifer Warnes
+1977-09-17	Indian Summer	Poco
+1978-03-11	California	Debby Boone
+1978-04-22	That's Your Secret	Sea Level
+1979-03-31	Stay The Night	The Faragher Bros.
+1979-07-07	Do You Wanna Go Party	KC And The Sunshine Band
+1979-11-24	Slip Away	Ian Lloyd
+1979-12-01	What Can I Do With This Broken Heart	England Dan & John Ford Coley
+1979-12-08	No Chance	Moon Martin
+1980-01-19	Money	The Flying Lizards
+1980-06-14	Is This Love	Pat Travers Band
+1980-07-26	Beyond	Herb Alpert
+1980-08-02	Love That Got Away	Firefall
+1980-12-06	Help Me!	Marcy Levy & Robin Gibb
+1981-03-28	Running Scared	The Fools
+1981-05-30	You Like Me Don't You	Jermaine Jackson
+1981-09-12	Square Biz	Teena Marie
+1982-01-30	Keeping Our Love Alive	Henry Paul Band
+1982-04-17	On A Carousel	Glass Moon
+1982-05-08	Baby Step Back	Gordon Lightfoot
+1982-08-07	Enough Is Enough	April Wine
+1982-10-30	Get Up And Go	Go-Go's
+1983-02-19	Shoot For The Moon	Poco
+1983-11-12	Stop Doggin' Me Around	Klique
+1984-07-28	Taking It All Too Hard	Genesis
+1984-10-13	On The Wings Of A Nightingale	The Everly Brothers
+1984-10-20	Left In The Dark	Barbra Streisand
+1984-12-08	Catch My Fall	Billy Idol
+1985-04-27	Can't Stop	Rick James
+1985-06-01	My Toot Toot	Jean Knight
+1985-10-26	Stand By Me	Maurice White
+1986-07-05	Peter Gunn	The Art Of Noise Featuring Duane Eddy
+1986-09-13	Wrap It Up	The Fabulous Thunderbirds
+1986-11-01	Where Did Your Heart Go?	Wham!
+1987-03-14	Cry Wolf	a-ha
+1987-05-09	There's Nothing Better Than Love	Luther Vandross with Gregory Hines
+1987-05-30	Back And Forth	Cameo
+1987-07-25	I Want Action	Poison
+1987-08-22	Dreamin'	Will To Power
+1987-12-19	(Baby Tell Me) Can You Dance	Shanice Wilson
+1988-04-09	Savin' Myself	Eria Fachin
+1988-07-16	Feelings Of Forever	Tiffany
+1988-08-20	Summergirls	Dino
+1988-10-22	Strangelove	Depeche Mode
+1989-06-17	I Want It All	Queen
+1989-11-25	Sold Me Down The River	The Alarm
+1989-12-02	French Kiss	Lil Louis
+1990-03-10	Almost Hear You Sigh	The Rolling Stones
+1990-06-23	Doubleback (From "Back To The Future Part III")	ZZ Top
+1990-12-01	Wherever Would I Be	Cheap Trick
+1990-12-08	I Wanna Get With U	Guy
+1991-06-01	Come Again	Damn Yankees
+1991-11-30	Can't Truss It	Public Enemy
+1991-12-07	Just A Touch Of Love	C+C Music Factory Presents Zelma Davis
+1992-06-06	Innocent Child	Colourhaus
+1992-09-05	Boot Scootin' Boogie	Brooks & Dunn
+1993-03-13	Stand	Poison
+1993-04-10	Romeo	Dolly Parton & Friends
+1993-10-02	Pink Cashmere	Prince
+1993-11-13	Send Me A Lover	Taylor Dayne
+1994-07-23	Sleeping In My Car	Roxette
+1994-12-24	The Most Beautifullest Thing In This World	Keith Murray
+1995-02-18	Whutcha Want?	Nine
+1996-03-02	Where Do U Want Me To Put It	Solo
+1996-03-16	Do You Want To/Can't Hang	Xscape Featuring MC Lyte
+1996-06-15	Ain't No Nigga/Dead Presidents	Jay-Z Featuring Foxxy Brown
+1996-09-14	Tell Me (I'll Be Around)	Shades
+1996-11-30	When Boy Meets Girl	Total
+1997-02-15	Luchini aka (This Is It)	Camp Lo
+1997-08-23	To Make You Feel My Love	Billy Joel
+1997-11-22	Valentine	Martina McBride With Jim Brickman
+1998-01-10	What If	Reba McEntire
+1998-05-02	Gitty Up	Salt-N-Pepa
+1998-07-18	Do Your Thing	7 Mile
+1998-08-01	Black Ice (Sky High)	Goodie Mob Featuring Outkast
+1998-08-22	Paper	Queen Latifah Featuring Apache
+1998-08-29	What U See Is What U Get	Xzibit
+1999-03-27	Powerful Thing	Trisha Yearwood
+2000-05-20	Best Of Me	Mya Featuring Jadakiss
+2000-08-12	Flowers On The Wall	Eric Heatherly
+2001-02-24	Wild Horses	Garth Brooks
+2001-05-05	Lay Low	Snoop Dogg Featuring Master P, Nate Dogg, Butch Cassidy & Tha Eastsidaz
+2001-05-12	Take It To Da House	Trick Daddy Featuring The SNS Express
+2002-07-13	A Little Less Conversation	Elvis Presley vs JXL
+2003-11-08	Bad Boy This Bad Boy That	Bad Boy's Da Band
+2004-07-31	I Got A Feelin'	Billy Currington
+2005-02-26	Somewhere Only We Know	Keane
+2005-09-10	Axel F	Crazy Frog
+2006-02-18	Lights And Sounds	Yellowcard
+2006-08-05	Me And My Gang	Rascal Flatts
+2006-08-19	The Diary Of Jane	Breaking Benjamin
+2006-09-16	Tell Me Baby	Red Hot Chili Peppers
+2006-10-07	Chemicals React	Aly & AJ
+2006-12-30	Happy Xmas (War Is Over)	The Fray
+2007-07-28	I Need You	Tim McGraw With Faith Hill
+2007-09-15	Because Of You	Reba McEntire Duet With Kelly Clarkson
+2007-11-24	Firecracker	Josh Turner
+2008-09-20	Cyanide	Metallica
+2008-12-27	Here	Rascal Flatts
+2009-08-22	So Fine	Sean Paul
+2009-11-07	Time For Miracles	Adam Lambert
+2009-12-05	Lean On Me	Glee Cast
+2010-03-20	Halfway Gone	Lifehouse
+2010-05-08	Ain't Back Yet	Kenny Chesney
+2010-10-23	Only The Good Die Young	Glee Cast
+2010-10-30	Don't Go Breaking My Heart	Glee Cast
+2011-01-15	Freak The Freak Out	Victorious Cast Featuring Victoria Justice
+2011-02-19	Fall For Your Type	Jamie Foxx Featuring Drake
+2011-12-03	Country Must Be Country Wide	Brantley Gilbert
+2011-12-17	Party	Beyonce Featuring Andre 3000
+2012-03-03	Runaway Baby	Bruno Mars
+2012-06-09	No Hurry	Zac Brown Band
+2012-08-25	Chasing The Sun	The Wanted
+2012-10-06	Why Ya Wanna	Jana Kramer
+2012-10-27	Turn On The Lights	Future
+2012-11-03	Ball	T.I. Featuring Lil Wayne
+2013-08-03	Right Now	Rihanna Featuring David Guetta
+2013-09-28	Type Of Way	Rich Homie Quan
+2013-11-30	All Bad	Justin Bieber
+2014-04-26	Trophies	Young Money Featuring Drake
+2014-10-04	Hope You Get Lonely Tonight	Cole Swindell
+2015-04-04	Lonely Eyes	Chris Young
+2015-09-05	Boyz-N-The Hood	Eazy-E
+2016-04-16	My Church	Maren Morris
+2016-04-30	Snapback	Old Dominion
+2016-06-11	Wild Things	Alessia Cara
+2016-07-23	Wake Up	Fetty Wap
+2016-11-19	Move	Luke Bryan
+2017-01-21	Too Much Sauce	DJ ESCO Featuring Future & Lil Uzi Vert
+2017-04-08	4422	Drake Featuring Sampha
+2017-05-06	Fear.	Kendrick Lamar
+2017-11-04	Every Little Thing	Carly Pearce
+2017-11-11	Patek Water	Future & Young Thug Featuring Offset
+2017-12-30	Kooda	6ix9ine
+2018-03-24	Billy	6ix9ine
+2018-04-07	Singles You Up	Jordan Davis
+2018-04-21	Thru Your Phone	Cardi B
+2018-07-28	Jumpsuit	Twenty One Pilots
+2018-08-04	Coming Home	Keith Urban Featuring Julia Michaels
+2018-08-18	Butterfly Effect	Travis Scott
+2019-01-12	This Feeling	The Chainsmokers Featuring Kelsea Ballerini
+2019-05-25	Love Ain't	Eli Young Band
+2019-10-26	Self Control	YoungBoy Never Broke Again
+2019-11-16	Every Little Thing	Russell Dickerson
+2020-02-15	Only The Young	Taylor Swift
+2020-05-02	NASTY	DaBaby Featuring Ashanti & Megan Thee Stallion
+2020-05-23	Can I	Kehlani Featuring Tory Lanez
+2020-07-25	Can't Die	Juice WRLD
+2020-08-01	One Big Country Song	LOCASH
+2020-08-29	Why We Drink	Justin Moore
+2020-09-19	Like That	Doja Cat Featuring Gucci Mane
+2020-09-26	Kacey Talk	YoungBoy Never Broke Again
+2020-10-10	Bloody Valentine	Machine Gun Kelly
+2020-11-28	That's It	Future & Lil Uzi Vert
+2021-01-02	I'll Be Home For Christmas	Bing Crosby With John Scott Trotter And His Orchestra
+2021-04-17	Run It Up	Lil Tjay Featuring Offset & Moneybagg Yo
+2021-05-01	Somebody Like That	Tenille Arts
+2021-06-05	Nobody	Dylan Scott
+2021-07-17	Red Light Green Light	DaBaby
+2021-07-24	Memory	Kane Brown X blackbear
+2021-07-31	Holy Smokes	Trippie Redd Featuring Lil Uzi Vert
+2021-10-02	You Time	Scotty McCreery
+2021-11-20	You Don't Know Me	Summer Walker
+2022-04-09	23	Sam Hunt
+2022-08-13	Never Sleep	NAV, Travis Scott & Lil Baby
+2022-10-29	Don't Come Lookin'	Jackson Dean
+2023-01-28	Que Vuelvas	Carin Leon X Grupo Frontera
+2023-04-08	Low Down	Lil Baby
+2023-07-22	Haunted (Taylor's Version)	Taylor Swift
+2024-01-06	(There's No Place Like) Home For The Holidays (1954)	Perry Como With Mitchell Ayers And His Orchestra
+2024-03-16	I Can Feel It	Kane Brown
+2024-07-13	Cowboys Cry Too	Kelsea Ballerini & Noah Kahan
+2024-08-31	Nosedive	Post Malone Featuring Lainey Wilson
+2024-09-21	Chevrolet	Dustin Lynch Featuring Jelly Roll
+2024-10-26	F**k Fame	Rod Wave Featuring Lil Yachty & Lil Baby
+2024-11-30	Beautiful As You	Thomas Rhett
+2025-01-04	You Make It Feel Like Christmas	Gwen Stefani Featuring Blake Shelton
+2025-01-18	Outfit	Lil Baby & 21 Savage
+2025-01-25	Pitorro de Coco	Bad Bunny
+2025-06-14	OWA OWA	Lil Tecca
+2025-07-26	Kick Out	Travis Scott
+2025-08-23	Better Me For You (Brown Eyes)	Max McNown
+2025-09-06	Takedown	JEONGYEON, JIHYO & CHAEYOUNG Of TWICE
+2025-11-08	Spaghetti	Le Sserafim&J-Hope

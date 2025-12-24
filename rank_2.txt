@@ -1,0 +1,538 @@
+최초2위 날짜	곡 제목	아티스트
+1958-09-13	Bird Dog	The Everly Brothers
+1958-10-11	Rock-in Robin	Bobby Day
+1958-12-13	Problems	The Everly Brothers
+1959-01-17	My Happiness	Connie Francis
+1959-01-31	The All American Boy	Bill Parsons
+1959-02-07	16 Candles	The Crests
+1959-02-21	Donna	Ritchie Valens
+1959-03-07	Charlie Brown	The Coasters
+1959-04-25	(Now and Then There's) A Fool Such As I	Elvis Presley With The Jordanaires
+1959-05-09	Sorry (I Ran All The Way Home)	The Impalas
+1959-06-06	Dream Lover	Bobby Darin
+1959-06-13	Personality	Lloyd Price and His Orchestra
+1959-08-15	There Goes My Baby	The Drifters
+1959-08-22	Sea Of Love	Phil Phillips With The Twilights
+1959-10-03	Put Your Head On My Shoulder	Paul Anka
+1959-11-28	Don't You Know	Della Reese
+1960-02-27	Handy Man	Jimmy Jones
+1960-03-05	He'll Have To Go	Jim Reeves
+1960-03-26	Wild One	Bobby Rydell
+1960-04-02	Puppy Love	Paul Anka
+1960-04-16	Greenfields	The Brothers Four
+1960-07-23	Only The Lonely (Know How I Feel)	Roy Orbison
+1960-08-27	Walk -- Don't Run	The Ventures
+1960-10-01	Chain Gang	Sam Cooke
+1960-11-12	Poetry In Motion	Johnny Tillotson
+1960-11-26	Last Date	Floyd Cramer
+1961-01-21	Exodus	Ferrante & Teicher
+1961-02-18	Shop Around	The Miracles (featuring Bill "Smokey" Robinson)
+1961-04-01	Apache	Jorgen Ingmann & His Guitar
+1961-05-27	Daddy's Home	Shep And The Limelites
+1961-06-24	Raindrops	Dee Clark
+1961-07-08	The Boll Weevil Song	Brook Benton
+1961-07-29	I Like It Like That, Part 1	Chris Kenner
+1961-09-23	The Mountain's High	Dick and DeeDee
+1961-10-07	Crying	Roy Orbison
+1961-10-21	Bristol Stomp	The Dovells
+1961-12-23	Run To Him	Bobby Vee
+1962-02-03	Can't Help Falling In Love	Elvis Presley With The Jordanaires
+1962-02-24	The Wanderer	Dion
+1962-03-17	Midnight In Moscow	Kenny Ball and his Jazzmen
+1962-05-05	Mashed Potato Time	Dee Dee Sharp
+1962-07-21	The Wah Watusi	The Orlons
+1962-09-08	You Don't Know Me	Ray Charles
+1962-09-22	Ramblin' Rose	Nat King Cole
+1962-11-03	Only Love Can Break A Heart	Gene Pitney
+1962-11-17	Return To Sender	Elvis Presley With The Jordanaires
+1962-12-22	Limbo Rock	Chubby Checker
+1963-02-23	Ruby Baby	Dion
+1963-03-23	The End Of The World	Skeeter Davis
+1963-04-13	Can't Get Used To Losing You	Andy Williams
+1963-05-11	Puff (The Magic Dragon)	Peter, Paul & Mary
+1963-08-10	Wipe Out	The Surfaris
+1963-08-17	Blowin' In The Wind	Peter, Paul & Mary
+1963-08-24	Hello Mudduh, Hello Fadduh! (A Letter From Camp)	Allan Sherman
+1963-09-28	Sally, Go 'round The Roses	The Jaynetts
+1963-10-12	Be My Baby	The Ronettes
+1963-11-23	Washington Square	The Village Stompers
+1963-12-14	Louie Louie	The Kingsmen
+1964-02-01	You Don't Own Me	Lesley Gore
+1964-04-04	Twist And Shout	The Beatles
+1964-05-09	Do You Want To Know A Secret	The Beatles
+1964-07-04	My Boy Lollipop	Millie Small
+1964-07-11	Memphis	Johnny Rivers
+1964-09-19	Bread And Butter	The Newbeats
+1964-10-17	Dancing In The Street	Martha & The Vandellas
+1964-11-07	Last Kiss	J. Frank Wilson and The Cavaliers
+1964-12-12	She's Not There	The Zombies
+1965-03-27	Can't You Hear My Heartbeat	Herman's Hermits
+1965-05-08	Count Me In	Gary Lewis And The Playboys
+1965-06-05	Wooly Bully	Sam The Sham and the Pharaohs
+1965-08-21	Save Your Heart For Me	Gary Lewis And The Playboys
+1965-09-04	Like A Rolling Stone	Bob Dylan
+1965-10-16	Treat Her Right	Roy Head And The Traits
+1965-10-30	A Lover's Concerto	The Toys
+1965-11-20	2001-2-3	Len Barry
+1966-01-29	Barbara Ann	The Beach Boys
+1966-03-19	19th Nervous Breakdown	The Rolling Stones
+1966-04-09	Daydream	The Lovin' Spoonful
+1966-04-23	Bang Bang (My Baby Shot Me Down)	Cher
+1966-05-21	Rainy Day Women #12 & 35	Bob Dylan
+1966-05-28	A Groovy Kind Of Love	The Mindbenders
+1966-06-11	Did You Ever Have To Make Up Your Mind?	The Lovin' Spoonful
+1966-07-09	Red Rubber Ball	The Cyrkle
+1966-08-06	Lil' Red Riding Hood	Sam The Sham and the Pharaohs
+1966-08-20	Sunny	Bobby Hebb
+1966-09-17	Yellow Submarine	The Beatles
+1966-12-10	Mellow Yellow	Donovan
+1966-12-31	Snoopy Vs. The Red Baron	The Royal Guardsmen
+1967-01-28	Tell It Like It Is	Aaron Neville
+1967-02-04	Georgy Girl	The Seekers
+1967-03-25	Dedicated To The One I Love	The Mamas & The Papas
+1967-04-29	A Little Bit Me, A Little Bit You	The Monkees
+1967-05-13	Sweet Soul Music	Arthur Conley
+1967-07-08	Little Bit O' Soul	The Music Explosion
+1967-07-22	Can't Take My Eyes Off You	Frankie Valli
+1967-07-29	I Was Made To Love Her	Stevie Wonder
+1967-09-09	Reflections	Diana Ross & The Supremes
+1967-10-07	Never My Love	The Association
+1967-11-04	Soul Man	Sam & Dave
+1967-12-02	The Rain, The Park & Other Things	The Cowsills
+1967-12-16	I Heard It Through The Grapevine	Gladys Knight And The Pips
+1968-01-20	Chain Of Fools	Aretha Franklin
+1968-02-24	(Theme From) Valley Of The Dolls	Dionne Warwick
+1968-04-06	Young Girl	The Union Gap Featuring Gary Puckett
+1968-04-27	Cry Like A Baby	The Box Tops
+1968-06-01	The Good, The Bad And The Ugly	Hugo Montenegro, His Orchestra And Chorus
+1968-06-22	MacArthur Park	Richard Harris
+1968-06-29	The Horse	Cliff Nobles & Co.
+1968-07-20	Lady Willpower	Gary Puckett And The Union Gap
+1968-08-03	Classical Gas	Mason Williams
+1968-08-24	Born To Be Wild	Steppenwolf
+1968-10-19	Fire	The Crazy World Of Arthur Brown
+1968-10-26	Little Green Apples	O.C. Smith
+1968-11-02	Those Were The Days	Mary Hopkin
+1968-12-28	For Once In My Life	Stevie Wonder
+1969-01-11	I'm Gonna Make You Love Me	Diana Ross And The Supremes & The Temptations
+1969-03-08	Proud Mary	Creedence Clearwater Revival
+1969-03-29	Traces	Classics IV Featuring Dennis Yost
+1969-04-12	You've Made Me So Very Happy	Blood, Sweat & Tears
+1969-05-03	It's Your Thing	The Isley Brothers
+1969-05-10	Hair	The Cowsills
+1969-05-31	Love (Can Make You Happy)	Mercy
+1969-06-28	Bad Moon Rising	Creedence Clearwater Revival
+1969-07-05	Spinning Wheel	Blood, Sweat & Tears
+1969-07-26	Crystal Blue Persuasion	Tommy James And The Shondells
+1969-08-23	A Boy Named Sue	Johnny Cash
+1969-09-27	Green River	Creedence Clearwater Revival
+1969-10-04	Jean	Oliver
+1969-10-18	Hot Fun In The Summertime	Sly & The Family Stone
+1969-11-22	Take A Letter Maria	R.B. Greaves
+1969-11-29	And When I Die	Blood, Sweat & Tears
+1970-02-21	Hey There Lonely Girl	Eddie Holman
+1970-03-07	Travelin' Band/Who'll Stop The Rain	Creedence Clearwater Revival
+1970-03-21	The Rapper	The Jaggerz
+1970-05-23	Vehicle	The Ides Of March
+1970-06-06	Which Way You Goin' Billy?	The Poppy Family (Featuring Susan Jacks)
+1970-10-03	Lookin' Out My Back Door/Long As I Can See The Light	Creedence Clearwater Revival
+1970-10-31	We've Only Just Begun	Carpenters
+1970-12-26	One Less Bell To Answer	The 5th Dimension
+1971-02-27	Mama's Pearl	Jackson 5
+1971-03-20	She's A Lady	Tom Jones
+1971-04-10	What's Going On	Marvin Gaye
+1971-05-01	Put Your Hand In The Hand	Ocean
+1971-05-08	Never Can Say Goodbye	Jackson 5
+1971-06-19	Rainy Days And Mondays	Carpenters
+1971-08-14	Mr. Big Stuff	Jean Knight
+1971-08-28	Take Me Home, Country Roads	John Denver With Fat City
+1971-09-11	Spanish Harlem	Aretha Franklin
+1971-10-16	Superstar/Bless The Beasts And Children	Carpenters
+1972-02-26	Hurting Each Other	Carpenters
+1972-04-22	Rockin' Robin	Michael Jackson
+1972-05-06	I Gotcha	Joe Tex
+1972-07-08	Outa-Space	Billy Preston
+1972-07-15	Too Late To Turn Back Now	Cornelius Brothers & Sister Rose
+1972-09-02	Long Cool Woman (In A Black Dress)	The Hollies
+1972-10-14	Use Me	Bill Withers
+1972-10-28	Burning Love	Elvis Presley
+1972-11-04	Nights In White Satin	The Moody Blues
+1972-11-18	I'd Love You To Want Me	Lobo
+1972-12-30	Clair	Gilbert O'Sullivan
+1973-02-24	Dueling Banjos	Deliverance/Eric Weissberg & Steve Mandell
+1973-03-31	Also Sprach Zarathustra (2001)	Deodato
+1973-04-07	Neither One Of Us (Wants To Be The First To Say Goodbye)	Gladys Knight And The Pips
+1973-04-28	The Cisco Kid	War
+1973-06-02	Daniel	Elton John
+1973-06-16	Playground In My Mind	Clint Holmes
+1973-07-07	Kodachrome	Paul Simon
+1973-07-28	Yesterday Once More	Carpenters
+1973-08-11	Live And Let Die	Wings
+1973-10-06	Loves Me Like A Rock	Paul Simon (with The Dixie Hummingbirds)
+1973-10-13	Ramblin Man	The Allman Brothers Band
+1973-12-08	Goodbye Yellow Brick Road	Elton John
+1974-03-09	Boogie Down	Eddie Kendricks
+1974-05-18	Dancing Machine	Jackson 5
+1974-06-15	You Make Me Feel Brand New	The Stylistics
+1974-07-27	Don't Let The Sun Go Down On Me	Elton John
+1974-11-09	Jazzman	Carole King
+1974-11-16	Do It ('til You're Satisfied)	B.T. Express
+1974-12-14	When Will I See You Again	The Three Degrees
+1975-01-04	You're The First, The Last, My Everything	Barry White
+1975-06-21	When Will I Be Loved	Linda Ronstadt
+1975-07-26	I'm Not In Love	10cc
+1975-11-08	Lyin' Eyes	Eagles
+1976-02-07	Love To Love You Baby	Donna Summer
+1976-03-06	All By Myself	Eric Carmen
+1976-03-27	Dream Weaver	Gary Wright
+1976-05-01	Right Back Where We Started From	Maxine Nightingale
+1976-06-12	Get Up And Boogie (That's Right)	Silver Convention
+1976-07-31	Love Is Alive	Gary Wright
+1976-09-04	You'll Never Find Another Love Like Mine	Lou Rawls
+1976-09-25	I'd Really Love To See You Tonight	England Dan & John Ford Coley
+1976-11-20	The Wreck Of The Edmund Fitzgerald	Gordon Lightfoot
+1976-12-04	The Rubberband Man	The Spinners
+1977-03-12	Fly Like An Eagle	Steve Miller
+1977-07-30	I'm In You	Peter Frampton
+1977-09-10	(Your Love Has Lifted Me) Higher And Higher	Rita Coolidge
+1977-09-17	Float On	The Floaters
+1977-10-01	Keep It Comin' Love	KC And The Sunshine Band
+1977-10-22	Nobody Does It Better	Carly Simon
+1977-11-12	Boogie Nights	Heatwave
+1977-11-26	Don't It Make My Brown Eyes Blue	Crystal Gayle
+1978-01-28	Short People	Randy Newman
+1978-05-13	The Closer I Get To You	Roberta Flack With Donny Hathaway
+1978-06-24	Baker Street	Gerry Rafferty
+1978-11-18	Double Vision	Foreigner
+1979-02-03	Y.M.C.A.	Village People
+1979-02-24	Fire	The Pointer Sisters
+1979-06-16	We Are Family	Sister Sledge
+1979-09-15	After The Love Has Gone	Earth, Wind & Fire
+1979-11-10	Dim All The Lights	Donna Summer
+1980-03-01	Yes, I'm Ready	Teri DeSario With K.C.
+1980-03-15	Longer	Dan Fogelberg
+1980-03-29	Working My Way Back To You/Forgive Me, Girl	The Spinners
+1980-04-26	Ride Like The Wind	Christopher Cross
+1980-09-13	All Out Of Love	Air Supply
+1980-12-06	More Than I Can Say	Leo Sayer
+1981-01-10	Love On The Rocks	Neil Diamond
+1981-03-21	Woman	John Lennon
+1981-05-02	Just The Two Of Us	Grover Washington, Jr. With Bill Withers
+1981-05-23	Being With You	Smokey Robinson
+1981-07-04	All Those Years Ago	George Harrison
+1981-08-15	Theme From "Greatest American Hero" (Believe It or Not)	Joey Scarbury
+1981-08-29	Slow Hand	The Pointer Sisters
+1981-09-19	Queen Of Hearts	Juice Newton
+1981-10-31	Start Me Up	The Rolling Stones
+1981-11-28	Waiting For A Girl Like You	Foreigner
+1982-02-27	Open Arms	Journey
+1982-04-10	We Got The Beat	Go-Go's
+1982-05-22	Don't Talk To Strangers	Rick Springfield
+1982-07-03	Rosanna	Toto
+1982-08-07	Hurts So Good	John Cougar
+1982-11-27	Gloria	Laura Branigan
+1983-01-08	The Girl Is Mine	Michael Jackson And Paul McCartney
+1983-02-26	Shame On The Moon	Bob Seger & The Silver Bullet Band
+1983-03-26	Do You Really Want To Hurt Me	Culture Club
+1983-05-07	Jeopardy	Greg Kihn Band
+1983-06-18	Time (Clock Of The Heart)	Culture Club
+1983-07-02	Electric Avenue	Eddy Grant
+1983-10-08	Making Love Out Of Nothing At All	Air Supply
+1983-12-17	Say It Isn't So	Daryl Hall  John Oates
+1984-02-11	Joanna	Kool & The Gang
+1984-03-03	99 Luftballons	Nena
+1984-03-10	Girls Just Want To Have Fun	Cyndi Lauper
+1984-03-24	Somebody's Watching Me	Rockwell
+1984-06-30	Dancing In The Dark	Bruce Springsteen
+1984-11-17	Purple Rain	Prince And The Revolution
+1984-12-15	The Wild Boys	Duran Duran
+1985-01-12	All I Need	Jack Wagner
+1985-02-02	Easy Lover	Philip Bailey With Phil Collins
+1985-02-23	Lover Boy	Billy Ocean
+1985-03-16	The Heat Is On	Glenn Frey
+1985-03-23	Material Girl	Madonna
+1985-07-20	Raspberry Beret	Prince And The Revolution
+1985-09-14	We Don't Need Another Hero (Thunderdome)	Tina Turner
+1985-09-21	Cherish	Kool & The Gang
+1985-11-16	You Belong To The City	Glenn Frey
+1985-12-28	Party All The Time	Eddie Murphy
+1986-02-01	Burning Heart	Survivor
+1986-02-15	When The Going Gets Tough, The Tough Get Going	Billy Ocean
+1986-04-05	R.O.C.K. In The U.S.A. (A Salute to 60's Rock)	John Mellencamp
+1986-04-19	Manic Monday	The Bangles
+1986-07-26	Danger Zone	Kenny Loggins
+1986-09-13	Dancing On The Ceiling	Lionel Richie
+1986-09-27	Friends And Lovers	Carl Anderson & Gloria Loring
+1986-10-11	Don't Forget Me (When I'm Gone)	Glass Tiger
+1986-10-18	Typical Male	Tina Turner
+1986-11-08	I Didn't Mean To Turn You On	Robert Palmer
+1986-12-27	Everybody Have Fun Tonight	Wang Chung
+1987-01-10	Notorious	Duran Duran
+1987-01-17	C'est La Vie	Robbie Nevil
+1987-02-21	Keep Your Hands To Yourself	The Georgia Satellites
+1987-03-14	Somewhere Out There (From "An American Tail")	Linda Ronstadt & James Ingram
+1987-03-21	Let's Wait Awhile	Janet Jackson
+1987-04-25	Don't Dream It's Over	Crowded House
+1987-05-02	Looking For A New Love	Jody Watley
+1987-08-08	I Want Your Sex (From "Beverly Hills Cop II")	George Michael
+1987-10-17	U Got The Look	Prince
+1987-10-24	Causing A Commotion	Madonna
+1987-12-19	Is This Love	Whitesnake
+1988-02-06	Hazy Shade Of Winter	The Bangles
+1988-02-20	What Have I Done To Deserve This?	Pet Shop Boys & Dusty Springfield
+1988-03-19	I Get Weak	Belinda Carlisle
+1988-03-26	Endless Summer Nights	Richard Marx
+1988-04-16	Devil Inside	INXS
+1988-05-14	Shattered Dreams	Johnny Hates Jazz
+1988-07-09	Mercedes Boy	Pebbles
+1988-07-23	Pour Some Sugar On Me	Def Leppard
+1988-08-06	Hands To Heaven	Breathe
+1988-08-27	I Don't Wanna Go On With You Like That	Elton John
+1988-09-10	Simply Irresistible	Robert Palmer
+1989-01-21	Don't Rush Me	Taylor Dayne
+1989-02-18	Wild Thing	Tone-Loc
+1989-03-04	The Lover In Me	Sheena Easton
+1989-04-01	Girl You Know It's True	Milli Vanilli
+1989-05-20	Real Love	Jody Watley
+1989-06-03	Soldier Of Love	Donny Osmond
+1989-07-15	Express Yourself	Madonna
+1989-08-05	On Our Own (From "Ghostbusters II")	Bobby Brown
+1989-09-23	Heaven	Warrant
+1989-10-07	Cherish	Madonna
+1989-10-21	Love Song	The Cure
+1989-10-28	Sowing The Seeds Of Love	Tears For Fears
+1989-11-04	Cover Girl	New Kids On The Block
+1989-12-23	Don't Know Much	Linda Ronstadt (Featuring Aaron Neville)
+1990-01-06	Rhythm Nation	Janet Jackson
+1990-01-20	Pump Up The Jam	Technotronic Featuring Felly
+1990-02-10	Two To Make It Right	Seduction
+1990-03-03	Dangerous	Roxette
+1990-04-14	Don't Wanna Fall In Love	Jane Child
+1990-05-05	I Wanna Be Rich	Calloway
+1990-05-26	All I Wanna Do Is Make Love To You	Heart
+1990-07-21	Hold On	En Vogue
+1990-08-04	Cradle Of Love (From "Ford Fairlane")	Billy Idol
+1990-08-11	The Power	Snap!
+1990-08-18	Come Back To Me	Janet Jackson
+1990-11-10	Pray	M.C. Hammer
+1990-11-24	More Than Words Can Say	Alias
+1990-12-15	From A Distance	Bette Midler
+1991-05-18	Touch Me (All Night Long)	Cathy Dennis
+1991-06-08	I Wanna Sex You Up (From "New Jack City")	Color Me Badd
+1991-07-27	Right Here, Right Now	Jesus Jones
+1991-08-03	P.A.S.S.I.O.N.	Rhythm Syndicate
+1991-08-17	Every Heartbeat	Amy Grant
+1991-08-24	It Ain't Over 'til It's Over	Lenny Kravitz
+1991-08-31	Fading Like A Flower (Every Time You Leave)	Roxette
+1991-10-19	Do Anything	Natural Selection
+1991-11-16	Can't Stop This Thing We Started	Bryan Adams
+1991-12-14	It's So Hard To Say Goodbye To Yesterday	Boyz II Men
+1992-01-25	Can't Let Go	Mariah Carey
+1992-02-01	I Love Your Smile	Shanice
+1992-03-28	Tears In Heaven	Eric Clapton
+1992-05-09	Bohemian Rhapsody	Queen
+1992-05-16	My Lovin' (You're Never Gonna Get It)	En Vogue
+1992-06-06	Under The Bridge	Red Hot Chili Peppers
+1992-08-15	Baby-Baby-Baby	TLC
+1992-09-26	Sometimes Love Just Ain't Enough	Patty Smyth
+1992-11-21	If I Ever Fall In Love	Shai
+1992-12-26	Rump Shaker	Wreckx-N-Effect
+1993-03-20	Nuthin' But A "G" Thang	Dr. Dre
+1993-07-31	Whoomp! (There It Is)	Tag Team
+1993-10-02	Right Here (Human Nature)/Downtown	SWV
+1993-10-23	Just Kickin' It	Xscape
+1993-11-06	All That She Wants	Ace Of Base
+1994-05-28	I'll Remember (From "With Honors")	Madonna
+1994-06-25	Any Time, Any Place/And On And On	Janet Jackson
+1994-07-02	Regulate (From "Above The Rim")	Warren G & Nate Dogg
+1994-10-01	Endless Love	Luther Vandross & Mariah Carey
+1994-10-08	All I Wanna Do	Sheryl Crow
+1995-03-18	Candy Rain	Soul For Real
+1995-04-15	Red Light Special	TLC
+1995-05-06	Freak Like Me	Adina Howard
+1995-06-17	Water Runs Dry	Boyz II Men
+1995-06-24	Total Eclipse Of The Heart	Nicki French
+1995-07-01	Don't Take It Personal (Just One Of Dem Days)	Monica
+1995-07-15	One More Chance/Stay With Me	The Notorious B.I.G.
+1996-02-17	Missing	Everything But The Girl
+1996-02-24	Not Gon' Cry (From "Waiting To Exhale")	Mary J. Blige
+1996-03-09	Sittin' Up In My Room (From "Waiting To Exhale")	Brandy
+1996-03-23	Nobody Knows	The Tony Rich Project
+1996-08-17	Twisted	Keith Sweat
+1996-08-24	I Love You Always Forever	Donna Lewis
+1996-10-26	It's All Coming Back To Me Now	Celine Dion
+1996-12-21	I Believe I Can Fly (From "Space Jam")	R. Kelly
+1997-01-18	Don't Let Go (Love)	En Vogue
+1997-04-19	Foolish Games/You Were Meant For Me	Jewel
+1997-06-07	Return Of The Mack	Mark Morrison
+1997-07-12	Bitch	Meredith Brooks
+1997-09-06	Quit Playing Games (With My Heart)	Backstreet Boys
+1997-10-25	You Make Me Wanna...	Usher
+1997-12-13	How Do I Live	LeAnn Rimes
+1998-01-03	Been Around The World	Puff Daddy & The Family (Feat. The Notorious B.I.G. & Mase)
+1998-04-04	Frozen	Madonna
+1998-04-11	Let's Ride	Montell Jordan Feat. Master P & Silkk The Shocker
+1998-05-02	You're Still The One	Shania Twain
+1998-08-15	My Way	Usher
+1998-12-05	Nobody's Supposed To Be Here	Deborah Cox
+1999-03-20	Heartbreak Hotel	Whitney Houston Feat. Faith Evans & Kelly Price
+1999-05-01	Kiss Me	Sixpence None The Richer
+1999-06-26	Last Kiss	Pearl Jam
+1999-08-14	Tell Me It's Real	K-Ci & JoJo
+1999-09-25	She's All I Ever Had	Ricky Martin
+1999-10-16	Music Of My Heart	*NSYNC & Gloria Estefan
+1999-10-30	Satisfy You	Puff Daddy Featuring R. Kelly
+1999-11-20	Back At One	Brian McKnight
+2000-04-22	Breathe	Faith Hill
+2000-05-06	He Wasn't Man Enough	Toni Braxton
+2000-06-03	You Sang To Me	Marc Anthony
+2000-09-30	Give Me Just One Night (Una Noche)	98 Degrees
+2000-12-02	Case Of The Ex (Whatcha Gonna Do)	Mya
+2000-12-30	He Loves U Not	Dream
+2001-04-14	Survivor	Destiny's Child
+2001-06-16	Hanging By A Moment	Lifehouse
+2001-07-21	Hit 'Em Up Style (Oops!)	Blu Cantrell
+2001-08-04	Loverboy	Mariah Carey Featuring Cameo
+2001-08-18	Let Me Blow Ya Mind	Eve Featuring Gwen Stefani
+2002-03-30	In The End	Linkin Park
+2002-04-06	What's Luv?	Fat Joe Featuring Ashanti
+2002-05-25	I Need A Girl (Part One)	P. Diddy Featuring Usher & Loon
+2002-06-29	Without Me	Eminem
+2002-08-03	Complicated	Avril Lavigne
+2002-09-14	Gangsta Lovin'	Eve Featuring Alicia Keys
+2002-11-16	Work It	Missy "Misdemeanor" Elliott
+2003-02-01	Beautiful	Christina Aguilera
+2003-02-15	Mesmerize	Ja Rule Featuring Ashanti
+2003-03-29	Ignition	R. Kelly
+2003-06-28	Flying Without Wings	Ruben Studdard
+2003-07-12	Magic Stick	Lil' Kim Featuring 50 Cent
+2003-08-02	Rock Wit U (Awww Baby)	Ashanti
+2003-08-09	Right Thurr	Chingy
+2003-10-25	Get Low	Lil Jon & The East Side Boyz Featuring Ying Yang Twins
+2004-03-13	One Call Away	Chingy Featuring J. Weav
+2004-04-17	Tipsy	J-Kwon
+2004-04-24	I Don't Wanna Know	Mario Winans Featuring Enya & P. Diddy
+2004-06-19	The Reason	Hoobastank
+2004-08-28	Sunshine	Lil' Flip Featuring Lea
+2005-01-08	1, 2 Step	Ciara Featuring Missy Elliott
+2005-03-05	Boulevard Of Broken Dreams	Green Day
+2005-04-09	Since U Been Gone	Kelly Clarkson
+2005-04-16	Hate It Or Love It	The Game Featuring 50 Cent
+2005-05-21	Oh	Ciara Featuring Ludacris
+2005-07-09	Inside Your Heaven	Bo Bice
+2005-07-30	Pon de Replay	Rihanna
+2005-08-20	Don't Cha	The Pussycat Dolls Featuring Busta Rhymes
+2005-09-10	Shake It Off	Mariah Carey
+2005-10-22	Photograph	Nickelback
+2006-07-22	Crazy	Gnarls Barkley
+2006-11-04	Smack That	Akon Featuring Eminem
+2007-01-13	Fergalicious	Fergie
+2007-02-03	This Ain't A Scene, It's An Arms Race	Fall Out Boy
+2007-03-03	Runaway Love	Ludacris Featuring Mary J. Blige
+2007-04-14	The Sweet Escape	Gwen Stefani Featuring Akon
+2007-05-19	Because Of You	Ne-Yo
+2007-06-09	Party Like A Rockstar	Shop Boyz
+2007-11-10	Apologize	Timbaland Featuring OneRepublic
+2008-02-16	With You	Chris Brown
+2008-08-16	Forever	Chris Brown
+2008-08-30	Crush	David Archuleta
+2009-02-21	Heartless	Kanye West
+2009-02-28	Dead And Gone	T.I. Featuring Justin Timberlake
+2009-05-16	Blame It	Jamie Foxx Featuring T-Pain
+2009-06-20	I Know You Want Me (Calle Ocho)	Pitbull
+2009-07-25	Best I Ever Had	Drake
+2009-08-22	You Belong With Me	Taylor Swift
+2009-08-29	Party In The U.S.A.	Miley Cyrus
+2009-10-03	Run This Town	Jay-Z, Rihanna & Kanye West
+2009-12-05	Bad Romance	Lady Gaga
+2010-01-09	Replay	Iyaz
+2010-02-06	Today Was A Fairytale	Taylor Swift
+2010-02-27	We Are The World 25: For Haiti	Artists For Haiti
+2010-03-13	BedRock	Young Money Featuring Lloyd
+2010-03-20	Need You Now	Lady Antebellum
+2010-06-05	Airplanes	B.o.B Featuring Hayley Williams
+2010-08-21	Dynamite	Taio Cruz
+2011-02-12	F**kin' Perfect	P!nk
+2011-03-05	F**k You! (Forget You)	CeeLo Green
+2012-04-14	Boyfriend	Justin Bieber
+2012-05-26	Payphone	Maroon 5 Featuring Wiz Khalifa
+2012-08-11	Wide Awake	Katy Perry
+2012-08-18	Lights	Ellie Goulding
+2012-10-06	Gangnam Style	PSY
+2012-12-08	Die Young	Ke$ha
+2013-01-12	I Knew You Were Trouble.	Taylor Swift
+2013-06-15	Mirrors	Justin Timberlake
+2013-06-29	Get Lucky	Daft Punk Featuring Pharrell Williams
+2013-08-03	We Can't Stop	Miley Cyrus
+2013-08-10	Best Song Ever	One Direction
+2014-01-18	Counting Stars	OneRepublic
+2014-02-15	Drunk In Love	Beyonce Featuring Jay Z
+2014-06-07	Problem	Ariana Grande Featuring Iggy Azalea
+2014-08-16	Stay With Me	Sam Smith
+2014-09-06	Anaconda	Nicki Minaj
+2014-12-20	Take Me To Church	Hozier
+2015-01-31	Thinking Out Loud	Ed Sheeran
+2015-03-28	Sugar	Maroon 5
+2015-05-16	Trap Queen	Fetty Wap
+2015-10-24	Hotline Bling	Drake
+2016-02-27	Stressed Out	Twenty One Pilots
+2016-04-09	7 Years	Lukas Graham
+2016-08-13	Cold Water	Major Lazer Featuring Justin Bieber & MO
+2016-09-24	Heathens	Twenty One Pilots
+2017-03-04	I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift
+2017-07-29	Wild Thoughts	DJ Khaled Featuring Rihanna & Bryson Tiller
+2018-03-31	Meant To Be	Bebe Rexha & Florida Georgia Line
+2018-07-14	Nonstop	Drake
+2018-10-06	Lucid Dreams	Juice WRLD
+2018-10-13	Mona Lisa	Lil Wayne Featuring Kendrick Lamar
+2018-10-27	ZEZE	Kodak Black Featuring Travis Scott & Offset
+2019-02-16	Happier	Marshmello & Bastille
+2019-02-23	Break Up With Your Girlfriend, I'm Bored	Ariana Grande
+2019-04-06	Wow.	Post Malone
+2019-05-11	ME!	Taylor Swift Featuring Brendon Urie
+2019-05-18	If I Can't Have You	Shawn Mendes
+2019-05-25	I Don't Care	Ed Sheeran & Justin Bieber
+2019-06-29	You Need To Calm Down	Taylor Swift
+2020-01-11	Memories	Maroon 5
+2020-01-18	Yummy	Justin Bieber
+2020-01-25	Life Is Good	Future Featuring Drake
+2020-03-21	Don't Start Now	Dua Lipa
+2020-07-11	Whats Poppin	Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne
+2020-07-25	Come & Go	Juice WRLD x Marshmello
+2020-08-29	Laugh Now Cry Later	Drake Featuring Lil Durk
+2020-11-07	Forever After All	Luke Combs
+2020-11-28	Therefore I Am	Billie Eilish
+2021-01-30	34+35	Ariana Grande Feat. Doja Cat & Megan Thee Stallion
+2021-03-20	Wants And Needs	Drake Featuring Lil Baby
+2021-05-22	Levitating	Dua Lipa
+2021-05-29	my.life	J. Cole, 21 Savage & Morray
+2021-08-28	Bad Habits	Ed Sheeran
+2021-09-18	Girls Want Girls	Drake Featuring Lil Baby
+2022-02-19	Do We Have A Problem?	Nicki Minaj X Lil Baby
+2022-11-05	Lavender Haze	Taylor Swift
+2022-11-12	Lift Me Up	Rihanna
+2022-11-19	Rich Flex	Drake & 21 Savage
+2023-04-22	Search & Rescue	Drake
+2023-05-27	All My Life	Lil Durk Featuring J. Cole
+2023-06-10	Karma	Taylor Swift Featuring Ice Spice
+2023-07-01	Fast Car	Luke Combs
+2023-10-07	Snooze	SZA
+2023-10-21	IDGAF	Drake Featuring Yeat
+2023-11-11	Now That We Don't Talk (Taylor's Version) [From The Vault]	Taylor Swift
+2024-03-30	Beautiful Things	Benson Boone
+2024-04-06	Type Shit	Future, Metro Boomin, Travis Scott & Playboi Carti
+2024-05-04	Down Bad	Taylor Swift
+2024-05-11	Million Dollar Baby	Tommy Richman
+2024-06-15	Houdini	Eminem
+2024-09-07	Taste	Sabrina Carpenter
+2024-10-12	Birds Of A Feather	Billie Eilish
+2024-12-07	TV Off	Kendrick Lamar Featuring Lefty Gunplay
+2025-01-25	DTMF	Bad Bunny
+2025-02-15	I'm The Problem	Morgan Wallen
+2025-03-29	Evil J0rdan	Playboi Carti
+2025-04-19	Nokia	Drake
+2025-05-31	Just In Case	Morgan Wallen
+2025-07-19	What Did I Miss?	Drake
+2025-07-26	Daisies	Justin Bieber
+2025-10-18	Opalite	Taylor Swift
+2025-12-13	Last Christmas	Wham!
